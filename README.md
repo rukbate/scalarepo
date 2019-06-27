@@ -1,0 +1,2 @@
+# scalarepo
+scala repository
